@@ -1,0 +1,12 @@
+{
+  "_comment": "This is a placeholder file. Please download google-services.json from Firebase Console and replace this file.",
+  "_instructions": [
+    "1. Go to https://console.firebase.google.com/",
+    "2. Create or select your project",
+    "3. Add Android app with package name: com.mylab.qrscanner",
+    "4. Download google-services.json",
+    "5. Replace this file with the downloaded google-services.json",
+    "6. Rename to: google-services.json (remove .placeholder)"
+  ]
+}
+

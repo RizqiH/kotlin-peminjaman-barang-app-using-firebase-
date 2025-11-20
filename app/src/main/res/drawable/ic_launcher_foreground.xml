@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Menggunakan inset minimal (5dp) agar logo lebih besar dan tidak terpotong -->
+    <!-- Logo akan menggunakan 98dp x 98dp dari total 108dp x 108dp -->
+    <item
+        android:drawable="@drawable/app_logo"
+        android:gravity="center">
+        <inset
+            android:insetLeft="5dp"
+            android:insetTop="5dp"
+            android:insetRight="5dp"
+            android:insetBottom="5dp" />
+    </item>
+</layer-list>
